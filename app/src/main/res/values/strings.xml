@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Hawker</string>
+    <string name="menu">Menu</string>
+    <string name="inventory">Inventory</string>
+    <string name="name">Name</string>
+    <string name="qty">Qty</string>
+    <string name="unit">Unit</string>
+    <string name="price">Price ($)</string>
+    <string name="price_alone">Price</string>
+    <string name="sale">Sale</string>
+    <string name="dollar">$</string>
+    <string name="today">Today</string>
+    <string name="total">Total: </string>
+
+    <string name="ing">Ingredient(s): </string>
+    <string name="ingredients">Ingredients</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="just_Ing">Ing</string>
+    <string name="add_Ingredient">Add Ingredient</string>
+    <string name="ing_deleted">Ingredient Deleted</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+    <string name="add_menu_item">Add Item to Menu</string>
+    <string name="enter_qty">Enter Quantity</string>
+    <string name="enter_yr">Enter Year</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="add_ing">Add Ingredient to Inventory</string>
+    <string name="no_sales">No sales on this date</string>
+
+    <string name="save">Save</string>
+    <string name="see_sales">See Sales</string>
+    <string name="show">Show</string>
+    <string name="delete">Delete</string>
+    <string name="long_press_delete">Long press to delete</string>
+    <string name="edit">Edit</string>
+    <string name="save_tran">Save Transaction</string>
+    <string name="tran_added">Transaction Successful \n</string>
+    <string name="tweet_confirm">Are you sure you want to send your location?</string>
+
+
+
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+</resources>

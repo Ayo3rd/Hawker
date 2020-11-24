@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="itp341.otegbade.opeoluwa.myfinal.project.app">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-feature android:name="android.hardware.location.gps"/>
+
+    <application
+        android:name="itp341.otegbade.opeoluwa.myfinal.project.app.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.InventoryActivity"
+            android:label="@string/inventory">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.CreateIngredientActivity"
+            android:label="@string/add_ing">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.MenuActivity"
+            android:label="@string/menu">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.CreateMenuItemActivity"
+            android:label="@string/add_menu_item">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.IngPopActivity"
+            android:label="@string/ingredients"
+            android:theme="@style/AppTheme.PopTheme">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.MakeSaleActivity"
+            android:label="@string/today">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.SuccessPopActivity"
+            android:theme="@style/AppTheme.PopTheme">
+        </activity>
+
+        <activity android:name="itp341.otegbade.opeoluwa.myfinal.project.app.LocPopActivity"
+            android:theme="@style/AppTheme.PopTheme">
+        </activity>
+        <activity android:name=".DaySalesActivity"></activity>
+
+
+        <service
+            android:name="itp341.otegbade.opeoluwa.myfinal.project.app.LocPopActivity"
+            android:foregroundServiceType="location">
+        </service>
+    </application>
+
+
+</manifest>

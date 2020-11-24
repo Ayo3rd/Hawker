@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <stroke
+        android:width="@dimen/grid_width"
+        android:color="@color/black" />
+
+    <solid android:color="@color/gray" />
+
+    <corners
+        android:radius="@dimen/grid_radius"
+        android:topRightRadius="@dimen/grid_corner"
+        android:topLeftRadius="@dimen/grid_corner"
+        android:bottomLeftRadius="@dimen/grid_corner"
+        android:bottomRightRadius="@dimen/grid_corner"/>
+
+</shape>

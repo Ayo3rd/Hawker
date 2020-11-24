@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024614582472",
+    "firebase_url": "https://hawker-341.firebaseio.com",
+    "project_id": "hawker-341",
+    "storage_bucket": "hawker-341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024614582472:android:da5f50976c5f2ef045fdfd",
+        "android_client_info": {
+          "package_name": "itp341.otegbade.opeoluwa.myfinal.project.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024614582472-5oqau932bgrog0hp8gv6a9kdcb6nupbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkqNwV9HGrGoyPvv6j7g0CTlEcPfj8P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024614582472-5oqau932bgrog0hp8gv6a9kdcb6nupbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

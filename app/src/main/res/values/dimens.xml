@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_padding">8dp</dimen>
+    <dimen name="plus_button">32dp</dimen>
+    <dimen name="row_height">56dp</dimen>
+
+    <dimen name="allMargin">16dp</dimen>
+
+    <dimen name="leftCol">120dp</dimen>
+
+    <dimen name="imageH">300dp</dimen>
+    <dimen name="imageMargin">24dp</dimen>
+
+    <dimen name="total_margin">100dp</dimen>
+
+    <dimen name="grid_radius">5dp</dimen>
+    <dimen name="grid_corner">10dp</dimen>
+    <dimen name="grid_width">5dp</dimen>
+
+    <dimen name="reg_text">16sp</dimen>
+    <dimen name="sign_text">24sp</dimen>
+    <dimen name="title_text">24sp</dimen>
+    <dimen name="grid_text">48sp</dimen>
+    <dimen name="top_text">20sp</dimen>
+
+
+
+</resources>
