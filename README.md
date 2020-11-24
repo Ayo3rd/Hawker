@@ -15,9 +15,10 @@ Taco man in L.A that sets up stand in different locations over the week
 ### Hawker Features:
 * Provides controlled menu list  - Tacos, Burritos, etc.
 * Provides controlled list of ingredients in inventory – Cheese, chicken, etc.
-* Provides quick calculator for every sale made
-* Dynamically reduces ingredients in the inventory as sales are made
-* Records every transaction/sale made  
+* Provides quick calculator for every sale made.
+* Dynamically reduces ingredients in the inventory as sales are made.
+* Records every transaction/sale made.  
+* Send out current location to social media account (e.g Twitter) when on the move.
 
 
 ## Target Audience
